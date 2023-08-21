@@ -1,6 +1,6 @@
 '''
 script to update a gist with a users top leetcode skills which can then be
-pinned to their profile.
+pinned to their profile. 
 '''
 import os
 import requests
